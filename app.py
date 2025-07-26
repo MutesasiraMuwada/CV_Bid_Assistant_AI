@@ -24,7 +24,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- SIDEBAR ---
-st.sidebar.image("kcl_logo.png", use_column_width=True)
+st.sidebar.image("klc_logo.jpg", use_container_width=True)
 st.sidebar.title("Navigation")
 st.sidebar.markdown("🚀 Upload CVs and Job Descriptions to get started.")
 st.sidebar.markdown("🔍 Analyze and improve to meet bid requirements.")
